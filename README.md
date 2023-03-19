@@ -1,0 +1,1 @@
+I designed and developed a meditation website with registration and login functionality, using a combination of HTML, CSS, PHP, MySQL, and JavaScript. Users can register with their personal details and create a secure account, which allows them to access a variety of guided meditation resources, customized to their preferences and experience level.
